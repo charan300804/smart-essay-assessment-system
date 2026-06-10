@@ -1,0 +1,17 @@
+tensorflow
+pandas
+numpy
+nltk
+spacy
+scikit-learn
+flask
+fastapi
+uvicorn
+streamlit
+matplotlib
+seaborn
+gdown
+python-dotenv
+textstat
+wordcloud
+plotly
